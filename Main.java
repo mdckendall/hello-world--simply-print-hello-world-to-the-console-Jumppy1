@@ -1,6 +1,6 @@
-//make this print "Hello World"\
+//make this print "HW"
 
 class Main
   public static void main (String[]args){
-  system.out.println("Hello World");
+  system.out.println("HW");
   }
